@@ -8,3 +8,4 @@ Feature: Title of your feature
     And clicks on Submit button
     Then Home page is getting displayed
     And check for the title of the page
+    And check the alert
